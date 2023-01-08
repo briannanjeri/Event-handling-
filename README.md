@@ -1,2 +1,2 @@
-# Event-handling-
-This project entails on how to handle events and also includes jquey
+# Event-handling 
+This project entails on how to handle events, creating dropdown menu and also includes jquery 
